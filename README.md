@@ -17,7 +17,7 @@ I help small businesses in Worcester County and Greater Boston with:
 
 | Project | What it does |
 |---|---|
-| [JAT Shell Scanner](https://github.com/CptNope/JAT-Shell-Scanner) | Free WordPress plugin that checks a site for PHP2Shell and wp2shell exposure |
+| [JAT Shell Scanner](https://github.com/CptNope/JAT-Shell-Scanner) | Free WordPress plugin that checks a site for PHP2Shell and wp2shell exposure. [Install from WordPress.org](https://wordpress.org/plugins/jat-shell-scanner/) |
 | [Anderson Site Shield](https://github.com/CptNope/Anderson-Site-Shield) | WordPress security plugin: login lockouts, two-factor and an activity log, with no outside service |
 | [Anderson Appointment Booking](https://github.com/CptNope/WordPress-Calendar-Sync-Plugin) | Appointment booking for WordPress with live Google Calendar availability, Meet links and Stripe |
 | [Client-Side QR](https://github.com/CptNope/Client-Side-QR) | WordPress plugin that lets visitors generate downloadable QR codes in various formats and styles |
